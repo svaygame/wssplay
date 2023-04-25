@@ -1,4 +1,6 @@
 # wssplay
+- UPDATE: 2023-04-25
+
 Using ffplay to play or dump video streaming from websocket
 
 # readme
